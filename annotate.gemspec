@@ -15,7 +15,8 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README",
-    "README.rdoc"
+    "README.rdoc",
+    "TODO"
   ]
   s.files = [
     ".document",
@@ -25,6 +26,7 @@ Gem::Specification.new do |s|
     "README",
     "README.rdoc",
     "Rakefile",
+    "TODO",
     "VERSION",
     "annotate.gemspec",
     "lib/annotate.rb",
